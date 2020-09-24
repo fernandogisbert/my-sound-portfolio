@@ -1,0 +1,30 @@
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+	<url>
+		<loc>
+			http://fgisbertaudio.com/
+		</loc>
+	</url>
+	<url>
+		<loc>
+			http://fgisbertaudio.com/spots/
+		</loc>
+	</url>
+	<url>
+		<loc>
+			http://fgisbertaudio.com/tv/
+		</loc>
+	</url>
+    	<url>
+		<loc>
+			http://fgisbertaudio.com/contact/
+		</loc>
+	</url>
+    	</url>
+    	<url>
+		<loc>
+			http://fgisbertaudio.com/index/
+		</loc>
+	</url>
+
+
+</urlset>
