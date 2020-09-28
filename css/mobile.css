@@ -1454,12 +1454,17 @@ ul {
     opacity: 1;
   }
 }
+.about__content {
+  text-align: center;
+}
 .about__info {
   font-size: 1.5rem;
+  text-align: justify;
 }
 .about__foto {
   max-width: 15rem;
   border: 0.5rem solid #000000ff;
+  margin: 0 auto 3rem;
 }
 
 .contact {

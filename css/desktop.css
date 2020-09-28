@@ -1454,6 +1454,11 @@ ul {
     opacity: 1;
   }
 }
+.about__content {
+  padding-bottom: 3rem;
+  display: flex;
+  justify-content: center;
+}
 .about__info {
   max-width: 21rem;
 }
