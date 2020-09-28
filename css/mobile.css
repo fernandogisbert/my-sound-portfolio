@@ -1462,7 +1462,7 @@ ul {
   text-align: justify;
 }
 .about__foto {
-  max-width: 15rem;
+  width: 85%;
   border: 0.5rem solid #000000ff;
   margin: 0 auto 3rem;
 }
