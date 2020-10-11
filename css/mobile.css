@@ -1454,6 +1454,10 @@ ul {
     opacity: 1;
   }
 }
+.landing {
+  margin-bottom: 4rem;
+}
+
 .about__content {
   text-align: center;
 }
